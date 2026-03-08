@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prince
 
-🚀 DevOps Engineer | Cloud Infrastructure | Kubernetes | CI/CD | MLOps <br><br>I am a DevOps Engineer passionate about building scalable, reliable, and automated cloud platforms. My focus is on enhancing developer productivity by designing efficient CI/CD pipelines, implementing Infrastructure as Code, and developing observability-driven systems. <br>I enjoy tackling complex infrastructure challenges and building platforms that enable teams to deliver software faster, more securely, and with greater reliability.<br><br>🌱 Currently exploring and learning application development, advanced cloud architectures, and AI technologies.
+🚀 DevOps Engineer | Cloud Infrastructure | Kubernetes | CI/CD | MLOps <br><br>I am a DevOps Engineer passionate about building scalable, reliable, and automated cloud platforms. My focus is on enhancing developer productivity by designing efficient CI/CD pipelines, implementing Infrastructure as Code, and developing observability-driven systems. I enjoy tackling complex infrastructure challenges and building platforms that enable teams to deliver software faster, more securely, and with greater reliability.<br><br>🌱 Currently exploring and learning application development, advanced cloud architectures, and AI technologies.
 
 
 ## 🌐 Socials:
